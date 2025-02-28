@@ -50,3 +50,19 @@ Modified Files: ["vite.config.js"]
 Summary:
 Modified frontend/vite.config.js file allows React to be used with the Vite configuration framework, and enables proxying API requests from "/api" to "http://localhost:5000".
 
+===============================
+	Work log generated at 2/28/2025, 9:18:47 PM:
+	
+
+Modified Files: ["package.json","deps"]
+	Created Files: ["chunk-UXVLD57N.js.map","package.json","react-dom.js","react_jsx-runtime.js.map","deps_temp_7c0585fd","deps_temp_b3ece68f","deps","@chakra-ui_react.js","@chakra-ui_react.js.map","chunk-44EURLI6.js","chunk-44EURLI6.js.map","chunk-5MDD43XU.js","chunk-5MDD43XU.js.map","chunk-JDXAG2GL.js","chunk-JDXAG2GL.js.map","chunk-PB2PBRZ7.js","chunk-PB2PBRZ7.js.map","react-dom.js.map","react-dom_client.js","react-dom_client.js.map","react-icons_io5.js","react-icons_io5.js.map","react-icons_lu.js","react-icons_lu.js.map","react-router-dom.js","react-router-dom.js.map","react.js","react.js.map","react_jsx-dev-runtime.js","react_jsx-dev-runtime.js.map","react_jsx-runtime.js","zustand.js","zustand.js.map","deps_temp_da1799c5"]
+	Deleted Files: ["package.json","react-dom.js","_metadata.json","chunk-44EURLI6.js","chunk-5MDD43XU.js","chunk-JDXAG2GL.js","chunk-PB2PBRZ7.js","@chakra-ui_react.js","chunk-44EURLI6.js.map","chunk-5MDD43XU.js.map","chunk-JDXAG2GL.js.map","chunk-PB2PBRZ7.js.map","@chakra-ui_react.js.map","vite.config.js.timestamp-1740757470981-44a7d86fe6aca.mjs","react.js","react.js.map","react-dom.js.map","react-icons_lu.js","react-icons_io5.js","react-dom_client.js","react-router-dom.js","react_jsx-runtime.js","react-icons_lu.js.map","react-icons_io5.js.map","react-dom_client.js.map","react-router-dom.js.map","react_jsx-dev-runtime.js","react_jsx-runtime.js.map","react_jsx-dev-runtime.js.map","deps_temp_7c0585fd","deps_temp_b3ece68f","chunk-UXVLD57N.js","chunk-UXVLD57N.js.map","deps_temp_da1799c5"]
+	===============================
+
+Summary:
+here are the work activities:
+
+1. Modified package.json
+2. Deleted dependencies
+3. Created new dependencies
+
