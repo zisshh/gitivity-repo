@@ -82,3 +82,15 @@ Modified Files: ["methods.md","errors.md","confidencethreshold.md","tokenaccepta
 Summary:
 Error generating summary.
 
+===============================
+	Work log generated at 9/23/2025, 11:33:18 PM:
+	
+
+Modified Files: ["scrapeless.log","popup.js"]
+	Created Files: [".env","captcha-solver.js","capmonster-extension","1.14.3_0","blsInterceptor.js","popup.js","recaptcha3Interceptor.js",".DS_Store","_locales","en","messages.json","ru","_metadata","computed_hashes.json","verified_contents.json","background.js","background.js.LICENSE.txt","binanceInterceptor.js","blsInterceptor.js.LICENSE.txt","content.js","content.js.LICENSE.txt","css","antd.variable.min.css","content","solver.css","popup","styles.css","defaultSettings.json","devtools","devtools.html","devtools.js","panel.html","fonts","roboto","Roboto-Bold.ttf","Roboto-Medium.ttf","Roboto-Regular.ttf","ubuntu","Ubuntu-B.ttf","geetestInterceptor.js","hcaptcha.js","hcaptcha.js.LICENSE.txt","hcaptchaInterceptor.js","img","20x20_binance.svg","20x20_bls.svg","20x20_geetest.svg","20x20_hcaptcha.svg","20x20_recaptcha.svg","20x20_text_captcha.svg","20x20_turnstile.svg","blue-cogs-animated.gif","green-cogs.png","icon.png","logo.svg","logo_icon.png","red-cogs.png","white-cogs.png","manifest.json","manifest_chrome.json","manifest_firefox.json","pageScript.js","pageScriptHandler.js","pageScriptHandler.js.LICENSE.txt","panel.js","panel.js.LICENSE.txt","polyfills","browser-polyfill.js","popup.html","popup.js.LICENSE.txt","recaptcha.js","recaptcha.js.LICENSE.txt","recaptcha2Interceptor.js","turnstileInterceptor.js","turnstileInterceptor.js.LICENSE.txt"]
+	Deleted Files: [".env.tmp.87104.1758648872062","captcha-solver.js.tmp.87104.1758648894535","captcha-solver.js.tmp.87104.1758648910880","captcha-solver.js.tmp.87104.1758648958251","captcha-solver.js.tmp.87104.1758650029394","captcha-solver.js.tmp.87104.1758650049872","_metadata"]
+	===============================
+
+Summary:
+Error generating summary.
+
