@@ -94,3 +94,15 @@ Modified Files: ["CMakeLists.txt","query.json","pkgRedirects","InstallScripts.js
 Summary:
 Error generating summary.
 
+===============================
+	Work log generated at 10/12/2025, 1:19:29 AM:
+	
+
+Modified Files: ["main.cpp.o.d","hello_window","query.json","pkgRedirects","InstallScripts.json","cmake.check_cache","cmake_clean.cmake","main.cpp",".DS_Store"]
+	Created Files: ["Progress","count.txt","compiler_depend.internal","compiler_depend.make","1","main.cpp-76f21f5f.o.tmp","main.cpp.o","2","index-2025-10-11T19-19-44-0402.json","Makefile.cmake","Makefile2","TargetDirectories.txt","depend.make","progress.make","progress.marks","Makefile","cmake_install.cmake","compile_commands.json","index-2025-10-11T19-19-51-0380.json","main.cpp-4d8e654d.o.tmp","glad","glad.c"]
+	Deleted Files: ["main.cpp-76f21f5f.o.tmp","Progress","Makefile.tmpeb0ac","tmp.json","CMakeCache.txt.tmp81e9f","CMakeCache.txt.tmpb93a0","cmake_install.cmake.tmpb0acb","Makefile2.tmpcc932","Makefile.cmake.tmpee596","progress.marks.tmp00e09","TargetDirectories.txt.tmp97bd1","link.txt.tmpd416b","depend.make.tmp3ccac","progress.make.tmp6c816","CMakeDirectoryInformation.cmake.tmpe1ffe","compiler_depend.internal","DependInfo.cmake.tmp7a4c9","index-2025-10-11T19-19-22-0441.json","compiler_depend.make.tmp9d70f","Makefile.tmp5f8c8","CMakeCache.txt.tmp10556","CMakeCache.txt.tmpffb3a","cmake_install.cmake.tmp477b5","Makefile2.tmp84375","Makefile.cmake.tmp28963","progress.marks.tmp9903b","TargetDirectories.txt.tmp2d8b5","link.txt.tmp16dfe","depend.make.tmp1a388","progress.make.tmpcdd57","CMakeDirectoryInformation.cmake.tmp388fc","DependInfo.cmake.tmp68603","index-2025-10-11T19-19-44-0402.json","compiler_depend.make.tmpd1991","compiler_depend.make.tmp4b7aa","compiler_depend.internal.tmp9f212","main.cpp-4d8e654d.o.tmp","glad.c"]
+	===============================
+
+Summary:
+Error generating summary.
+
