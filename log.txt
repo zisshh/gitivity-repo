@@ -1,9 +1,9 @@
 ===============================
-	Work log generated at 10/21/2025, 2:48:31 PM:
+	Work log generated at 10/19/2025, 3:14:29 PM:
 	
 
-Modified Files: ["main.cpp"]
-	Created Files: ["log.txt"]
+Modified Files: ["binaryexponentiationrec.cpp"]
+	Created Files: ["log.txt","binaryexponentiationrec.cpp"]
 	Deleted Files: []
 	===============================
 
@@ -11,10 +11,22 @@ Summary:
 Error generating summary.
 
 ===============================
-	Work log generated at 10/21/2025, 3:18:31 PM:
+	Work log generated at 10/19/2025, 3:57:59 PM:
 	
 
-Modified Files: ["main.cpp"]
+Modified Files: ["codeforces","binaryexponentiationrec.cpp"]
+	Created Files: [".vscode","tasks.json"]
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/19/2025, 6:27:59 PM:
+	
+
+Modified Files: ["binaryexponentiationrec.cpp"]
 	Created Files: []
 	Deleted Files: []
 	===============================
@@ -23,10 +35,22 @@ Summary:
 Error generating summary.
 
 ===============================
-	Work log generated at 10/21/2025, 3:48:31 PM:
+	Work log generated at 10/19/2025, 6:57:59 PM:
 	
 
-Modified Files: ["main.cpp"]
+Modified Files: ["binaryexponentiationrec.cpp","Info.plist","binaryexponentiationrec","binaryexponentiationrec.yml","compilecommand.txt","binary"]
+	Created Files: ["binaryexponentiationrec","binaryexponentiationrec.dSYM","Contents","Info.plist","Resources","DWARF","Relocations","x86_64","binaryexponentiationrec.yml","binary","compilecommand.txt"]
+	Deleted Files: ["binaryexponentiationrec","binaryexponentiationrec.dSYM"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/19/2025, 7:27:59 PM:
+	
+
+Modified Files: ["binaryexponentiationrec.cpp","binary"]
 	Created Files: []
 	Deleted Files: []
 	===============================
@@ -35,10 +59,22 @@ Summary:
 Error generating summary.
 
 ===============================
-	Work log generated at 10/21/2025, 4:18:31 PM:
+	Work log generated at 10/19/2025, 9:01:28 PM:
 	
 
-Modified Files: ["main.cpp"]
+Modified Files: [".A_Notelock.cpp_ac474b38177328e8ef1ae5d95aea485e.prob","A_Notelock.cpp"]
+	Created Files: [".cph",".A_Notelock.cpp_ac474b38177328e8ef1ae5d95aea485e.prob","A_Notelock.cpp"]
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/19/2025, 9:31:28 PM:
+	
+
+Modified Files: ["A_Notelock.cpp",".A_Notelock.cpp_ac474b38177328e8ef1ae5d95aea485e.prob","binaryexponentiationrec.cpp"]
 	Created Files: []
 	Deleted Files: []
 	===============================
@@ -47,10 +83,22 @@ Summary:
 Error generating summary.
 
 ===============================
-	Work log generated at 10/21/2025, 4:48:31 PM:
+	Work log generated at 10/19/2025, 10:07:36 PM:
 	
 
-Modified Files: ["main.cpp","sudoku_solver"]
+Modified Files: [".A_Notelock.cpp_ac474b38177328e8ef1ae5d95aea485e.prob","A_Notelock.cpp","A_Notelock.bin"]
+	Created Files: ["app","A_Notelock.bin"]
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/19/2025, 10:37:36 PM:
+	
+
+Modified Files: ["A_Notelock.cpp",".A_Notelock.cpp_ac474b38177328e8ef1ae5d95aea485e.prob","A_Notelock.bin"]
 	Created Files: []
 	Deleted Files: []
 	===============================
@@ -59,10 +107,46 @@ Summary:
 Error generating summary.
 
 ===============================
-	Work log generated at 10/21/2025, 8:39:17 PM:
+	Work log generated at 10/19/2025, 11:07:36 PM:
 	
 
-Modified Files: ["main.cpp"]
+Modified Files: [".A_Notelock.cpp_ac474b38177328e8ef1ae5d95aea485e.prob","a.cpp"]
+	Created Files: ["a.cp","a.cpp"]
+	Deleted Files: ["a.cp"]
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/20/2025, 2:04:14 PM:
+	
+
+Modified Files: [".A_El_fucho.cpp_f208a23e81a11900ae603ac0f8a2aefe.prob","A_El_fucho.cpp","A_El_fucho.bin"]
+	Created Files: [".A_El_fucho.cpp_f208a23e81a11900ae603ac0f8a2aefe.prob","A_El_fucho.cpp","A_El_fucho.bin"]
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/20/2025, 3:04:14 PM:
+	
+
+Modified Files: [".A_Increase_or_Smash.cpp_f2b453de579c05833eb8a7f7a249cb7f.prob","A_Increase_or_Smash.cpp"]
+	Created Files: [".A_Increase_or_Smash.cpp_f2b453de579c05833eb8a7f7a249cb7f.prob","A_Increase_or_Smash.cpp"]
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/20/2025, 4:04:14 PM:
+	
+
+Modified Files: ["A_Increase_or_Smash.cpp"]
 	Created Files: []
 	Deleted Files: []
 	===============================
@@ -71,10 +155,22 @@ Summary:
 Error generating summary.
 
 ===============================
-	Work log generated at 10/21/2025, 9:09:17 PM:
+	Work log generated at 10/20/2025, 4:34:14 PM:
 	
 
-Modified Files: ["main.cpp"]
+Modified Files: ["A_Increase_or_Smash.cpp",".A_Increase_or_Smash.cpp_f2b453de579c05833eb8a7f7a249cb7f.prob","A_Increase_or_Smash.bin",".A_Notelock.cpp_ac474b38177328e8ef1ae5d95aea485e.prob",".A_El_fucho.cpp_f208a23e81a11900ae603ac0f8a2aefe.prob","A_El_fucho.cpp"]
+	Created Files: ["A_Increase_or_Smash.bin"]
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/20/2025, 5:04:14 PM:
+	
+
+Modified Files: [".A_Increase_or_Smash.cpp_f2b453de579c05833eb8a7f7a249cb7f.prob"]
 	Created Files: []
 	Deleted Files: []
 	===============================
@@ -83,10 +179,22 @@ Summary:
 Error generating summary.
 
 ===============================
-	Work log generated at 10/21/2025, 9:39:17 PM:
+	Work log generated at 10/20/2025, 6:34:14 PM:
 	
 
-Modified Files: ["main.cpp"]
+Modified Files: [".A_Increase_or_Smash.cpp_f2b453de579c05833eb8a7f7a249cb7f.prob","inc_or_smash.cpp"]
+	Created Files: ["inc_or_smash.cpp"]
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/20/2025, 7:04:14 PM:
+	
+
+Modified Files: ["inc_or_smash.cpp"]
 	Created Files: []
 	Deleted Files: []
 	===============================
@@ -95,10 +203,10 @@ Summary:
 Error generating summary.
 
 ===============================
-	Work log generated at 10/21/2025, 10:09:17 PM:
+	Work log generated at 10/20/2025, 7:34:14 PM:
 	
 
-Modified Files: ["main.cpp"]
+Modified Files: ["inc_or_smash.cpp"]
 	Created Files: []
 	Deleted Files: []
 	===============================
@@ -107,10 +215,22 @@ Summary:
 Error generating summary.
 
 ===============================
-	Work log generated at 10/21/2025, 10:39:17 PM:
+	Work log generated at 10/20/2025, 8:04:14 PM:
 	
 
-Modified Files: ["main.cpp"]
+Modified Files: ["inc_or_smash.cpp","Info.plist",".A_Increase_or_Smash.cpp_f2b453de579c05833eb8a7f7a249cb7f.prob","settings.json","A_Increase_or_Smash.cpp","A_Increase_or_Smash.bin"]
+	Created Files: ["inc_or_smash","inc_or_smash.dSYM","Contents","Info.plist","Resources","DWARF","Relocations","x86_64","inc_or_smash.yml","settings.json"]
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/21/2025, 6:34:14 AM:
+	
+
+Modified Files: [".A_El_fucho.cpp_f208a23e81a11900ae603ac0f8a2aefe.prob",".A_Increase_or_Smash.cpp_f2b453de579c05833eb8a7f7a249cb7f.prob"]
 	Created Files: []
 	Deleted Files: []
 	===============================
@@ -119,10 +239,22 @@ Summary:
 Error generating summary.
 
 ===============================
-	Work log generated at 10/22/2025, 6:16:29 AM:
+	Work log generated at 10/21/2025, 7:31:09 AM:
 	
 
-Modified Files: ["main.cpp"]
+Modified Files: [".A_Incremental_Subarray.cpp_0ccfc06c33ae5e94d1bf53ac240796ed.prob","A_Incremental_Subarray.cpp"]
+	Created Files: [".A_Incremental_Subarray.cpp_0ccfc06c33ae5e94d1bf53ac240796ed.prob","A_Incremental_Subarray.cpp"]
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/21/2025, 8:01:09 AM:
+	
+
+Modified Files: [".A_Incremental_Subarray.cpp_0ccfc06c33ae5e94d1bf53ac240796ed.prob","A_Incremental_Subarray.cpp"]
 	Created Files: []
 	Deleted Files: []
 	===============================
@@ -131,10 +263,34 @@ Summary:
 Error generating summary.
 
 ===============================
-	Work log generated at 10/22/2025, 6:46:29 AM:
+	Work log generated at 10/21/2025, 8:31:09 AM:
 	
 
-Modified Files: ["main.cpp"]
+Modified Files: ["A_Incremental_Subarray.cpp",".A_Incremental_Subarray.cpp_0ccfc06c33ae5e94d1bf53ac240796ed.prob","A_Incremental_Subarray.bin"]
+	Created Files: ["A_Incremental_Subarray.bin"]
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/21/2025, 9:01:09 AM:
+	
+
+Modified Files: [".B_Unconventional_Pairs.cpp_e8b90b4196109cab1c2567e291269970.prob","B_Unconventional_Pairs.cpp","B_Unconventional_Pairs.bin"]
+	Created Files: [".B_Unconventional_Pairs.cpp_e8b90b4196109cab1c2567e291269970.prob","B_Unconventional_Pairs.cpp","B_Unconventional_Pairs.bin"]
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/21/2025, 9:31:09 AM:
+	
+
+Modified Files: [".B_Unconventional_Pairs.cpp_e8b90b4196109cab1c2567e291269970.prob","B_Unconventional_Pairs.cpp","B_Unconventional_Pairs.bin"]
 	Created Files: []
 	Deleted Files: []
 	===============================
@@ -143,10 +299,34 @@ Summary:
 Error generating summary.
 
 ===============================
-	Work log generated at 10/22/2025, 7:16:29 AM:
+	Work log generated at 10/21/2025, 6:08:57 PM:
 	
 
-Modified Files: ["main.cpp"]
+Modified Files: [".A_Halloumi_Boxes.cpp_e5a2e132460e9a4d61da54a17d43c44c.prob","A_Halloumi_Boxes.cpp"]
+	Created Files: [".A_Halloumi_Boxes.cpp_e5a2e132460e9a4d61da54a17d43c44c.prob","A_Halloumi_Boxes.cpp"]
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/21/2025, 6:43:36 PM:
+	
+
+Modified Files: ["A_Halloumi_Boxes.cpp",".A_Halloumi_Boxes.cpp_e5a2e132460e9a4d61da54a17d43c44c.prob","A_Halloumi_Boxes.bin"]
+	Created Files: ["A_Halloumi_Boxes.bin"]
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
+===============================
+	Work log generated at 10/21/2025, 7:16:23 PM:
+	
+
+Modified Files: ["log.txt"]
 	Created Files: []
 	Deleted Files: []
 	===============================
@@ -155,10 +335,10 @@ Summary:
 Error generating summary.
 
 ===============================
-	Work log generated at 10/22/2025, 7:46:29 AM:
+	Work log generated at 10/21/2025, 7:46:24 PM:
 	
 
-Modified Files: ["main.cpp"]
+Modified Files: ["A_Halloumi_Boxes.cpp"]
 	Created Files: []
 	Deleted Files: []
 	===============================
@@ -167,168 +347,12 @@ Summary:
 Error generating summary.
 
 ===============================
-	Work log generated at 10/22/2025, 8:16:29 AM:
+	Work log generated at 10/23/2025, 10:21:55 AM:
 	
 
-Modified Files: ["main.cpp"]
-	Created Files: []
+Modified Files: [".A_Halloumi_Boxes.cpp_e5a2e132460e9a4d61da54a17d43c44c.prob",".A_Line_Trip.cpp_6728bf6219438fc918f8a775eb8263f8.prob","A_Line_Trip.cpp"]
+	Created Files: [".A_Line_Trip.cpp_6728bf6219438fc918f8a775eb8263f8.prob","A_Line_Trip.cpp"]
 	Deleted Files: []
-	===============================
-
-Summary:
-Error generating summary.
-
-===============================
-	Work log generated at 10/22/2025, 8:46:29 AM:
-	
-
-Modified Files: ["main.cpp"]
-	Created Files: []
-	Deleted Files: []
-	===============================
-
-Summary:
-Error generating summary.
-
-===============================
-	Work log generated at 10/22/2025, 9:46:29 AM:
-	
-
-Modified Files: ["puzzle.txt","main.cpp","sudoku_solver"]
-	Created Files: ["puzzle.txt"]
-	Deleted Files: []
-	===============================
-
-Summary:
-Error generating summary.
-
-===============================
-	Work log generated at 10/22/2025, 10:16:29 AM:
-	
-
-Modified Files: ["main.cpp"]
-	Created Files: []
-	Deleted Files: []
-	===============================
-
-Summary:
-Error generating summary.
-
-===============================
-	Work log generated at 10/22/2025, 10:46:29 AM:
-	
-
-Modified Files: ["main.cpp","sudoku_solver"]
-	Created Files: []
-	Deleted Files: []
-	===============================
-
-Summary:
-Error generating summary.
-
-===============================
-	Work log generated at 10/22/2025, 11:16:29 AM:
-	
-
-Modified Files: ["main.cpp","sudoku_solver","Sudoku.h","Sudoku.cpp"]
-	Created Files: ["Sudoku.h","Sudoku.cpp"]
-	Deleted Files: []
-	===============================
-
-Summary:
-Error generating summary.
-
-===============================
-	Work log generated at 10/22/2025, 11:46:29 AM:
-	
-
-Modified Files: ["Sudoku.h","Sudoku.cpp"]
-	Created Files: []
-	Deleted Files: []
-	===============================
-
-Summary:
-Error generating summary.
-
-===============================
-	Work log generated at 10/22/2025, 12:16:29 PM:
-	
-
-Modified Files: ["Sudoku.cpp","Sudoku.h"]
-	Created Files: []
-	Deleted Files: []
-	===============================
-
-Summary:
-Error generating summary.
-
-===============================
-	Work log generated at 10/22/2025, 12:46:29 PM:
-	
-
-Modified Files: ["main.cpp","Sudoku.h"]
-	Created Files: []
-	Deleted Files: []
-	===============================
-
-Summary:
-Error generating summary.
-
-===============================
-	Work log generated at 10/22/2025, 1:16:29 PM:
-	
-
-Modified Files: ["Sudoku.cpp"]
-	Created Files: []
-	Deleted Files: []
-	===============================
-
-Summary:
-Error generating summary.
-
-===============================
-	Work log generated at 10/22/2025, 1:46:29 PM:
-	
-
-Modified Files: ["Sudoku.cpp","Sudoku.h","main.cpp"]
-	Created Files: []
-	Deleted Files: []
-	===============================
-
-Summary:
-Error generating summary.
-
-===============================
-	Work log generated at 10/22/2025, 2:16:29 PM:
-	
-
-Modified Files: ["main.cpp"]
-	Created Files: []
-	Deleted Files: []
-	===============================
-
-Summary:
-Error generating summary.
-
-===============================
-	Work log generated at 10/22/2025, 2:46:29 PM:
-	
-
-Modified Files: ["main.cpp","sudoku"]
-	Created Files: ["sudoku",".git","description","hooks","applypatch-msg.sample","commit-msg.sample","fsmonitor-watchman.sample","pre-commit.sample","pre-rebase.sample","pre-receive.sample","prepare-commit-msg.sample","sendemail-validate.sample","info","exclude",".gitstatus.vez6z5","a","b","HEAD","config","post-update.sample","pre-applypatch.sample","pre-merge-commit.sample","pre-push.sample","push-to-checkout.sample","update.sample","refs","heads","tags","index","COMMIT_EDITMSG","logs","main","remotes","origin"]
-	Deleted Files: ["sudoku_solver","ä","tTByfNk","HEAD.lock","config.lock",".gitstatus.vez6z5","index.lock","AUTO_MERGE.lock","packed-refs.lock","main.lock"]
-	===============================
-
-Summary:
-Error generating summary.
-
-===============================
-	Work log generated at 10/22/2025, 3:16:29 PM:
-	
-
-Modified Files: ["README.md","CleanShot 2025-10-22 at 14.47.22.gif","COMMIT_EDITMSG","HEAD","main"]
-	Created Files: ["README.md","CleanShot 2025-10-22 at 14.47.22.gif","asset.gif","index.lock","index","config","main"]
-	Deleted Files: ["CleanShot 2025-10-22 at 14.47.22.gif","index.lock","main.lock","config.lock","HEAD.lock","AUTO_MERGE.lock","packed-refs.lock"]
 	===============================
 
 Summary:
