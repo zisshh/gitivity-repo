@@ -10,3 +10,15 @@ Modified Files: ["options.lua","tokyonight.lua","lazy-lock.json","treesitter.lua
 Summary:
 Error generating summary.
 
+===============================
+	Work log generated at 2/14/2026, 4:19:29 PM:
+	
+
+Modified Files: ["karabiner","complex_modifications"]
+	Created Files: []
+	Deleted Files: []
+	===============================
+
+Summary:
+Error generating summary.
+
